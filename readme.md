@@ -1,37 +1,41 @@
-# Secure Chat Application - UI/UX Design & Prototype
 
-A high-fidelity, interactive prototype for a modern and secure messaging application, designed in Figma. This project focuses on delivering a seamless user experience for private and group communication, backed by robust security features and cross-platform compatibility.
+# Food Delivery App (High-Fidelity Prototype)
 
+This repository contains a **high-fidelity UI/UX prototype** of a mobile Food Delivery App, designed and prototyped in **Figma**. The project focuses on creating an intuitive and visually appealing interface for a seamless food ordering experience.
 
-## ✨ Features
+## 📱 Features Designed
+- **Onboarding Screens** – Smooth introduction to the app for new users.  
+- **Authentication** – Login and Sign Up pages.  
+- **User Profile** – Manage user details and settings.  
+- **Notifications** – Real-time updates for orders and offers.  
+- **Order Management** – View current and past orders.  
+- **Search Functionality** – Search restaurants or dishes.  
+- **Shopping Cart** – Add, review, and place orders easily.  
+- **Best Sellers & Promotions** – Highlighted products and deals.  
+- **Advertisements Section** – Banner placements for marketing.  
+- **Live Order Tracking** – Real-time delivery status tracking.  
 
-The prototype encompasses a complete user journey for a secure chat app, including:
+## 🎨 Tools Used
+- **Figma** – High-fidelity UI design and interactive prototyping.  
 
-*   **Real-time Messaging:** One-on-one and group chats with a modern, clean interface.
-*   **Secure Communication:** **End-to-End Message Encryption (E2EE)** to ensure user privacy.
-*   **Multi-Modal Calls:** High-quality **voice and video call** functionality integrated seamlessly into the chat interface.
-*   **Multi-Factor Authentication (MFA):** UI flows for setting up enhanced security options:
-    *   **PIN Code Security**
-    *   **Fingerprint Recognition**
-    *   **Face Recognition**
-*   **Cross-Platform Compatibility:** Designed to provide a consistent experience across **iOS, Android, and Web** devices. Access your chats anywhere, on any device.
-*   **Conversation Management:** Intuitive screens for viewing, managing, and navigating chat conversations.
-
-## 🎨 Design & Prototype
-
-This project was built using an iterative design process:
-1.  **Wireframing:** Initial layout and user flow sketches.
-2.  **High-Fidelity Mockups:** Pixel-perfect visual designs for all screens and states.
-3.  **Interactive Prototyping:** Creation of a dynamic prototype in Figma to simulate the final application experience, including:
-    *   Micro-interactions (e.g., sending a message, toggling settings).
-    *   Navigational flows (e.g., moving from the chat list to a conversation to a video call).
-    *   Authentication process simulation.
-
-### 🛠️ Built With
-
-*   **Figma:** For UI/UX design, component creation, and advanced interactive prototyping.
+## 🔍 Project Highlights
+- Created **pixel-perfect UI screens** to simulate a real-world food delivery app experience.  
+- Built **interactive prototypes** to demonstrate smooth user journeys.  
+- Followed **UI/UX best practices** for usability and accessibility.  
 
 
-## 🔗 Live Prototype
-**Experience the full interactive prototype directly in Figma:**
-[👉 Click Here to View the Live Figma Prototype](https://www.figma.com/design/DNpbHnHnXnEqG12FMzS7dj/Food-Delivery-App-UI?node-id=0-1&t=jpajz9Dcg7zdGJ4H-1)
+2. Open the Figma files in [Figma](https://www.figma.com/design/DNpbHnHnXnEqG12FMzS7dj/Food-Delivery-App-UI?node-id=13-5830&t=jpajz9Dcg7zdGJ4H-1).
+3. Explore designs, screens, and prototypes.
+
+## 🌐 Live Figma Prototype
+
+[🔗 View the Food Delivery App Prototype](YOUR_FIGMA_LINK_HERE)
+
+
+
+```
+
+---
+
+Want me to also make a **section with embedded screenshots** (so the README looks more professional and portfolio-ready)?
+```
