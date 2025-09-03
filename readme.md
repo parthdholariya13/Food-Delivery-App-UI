@@ -23,7 +23,6 @@ This repository contains a **high-fidelity UI/UX prototype** of a mobile Food De
 - Built **interactive prototypes** to demonstrate smooth user journeys.  
 - Followed **UI/UX best practices** for usability and accessibility.  
 
-
 2. Open the Figma files in [Figma](https://www.figma.com/design/DNpbHnHnXnEqG12FMzS7dj/Food-Delivery-App-UI?node-id=13-5830&t=jpajz9Dcg7zdGJ4H-1).
 3. Explore designs, screens, and prototypes.
 
@@ -32,10 +31,3 @@ This repository contains a **high-fidelity UI/UX prototype** of a mobile Food De
 [🔗 View the Food Delivery App Prototype](YOUR_FIGMA_LINK_HERE)
 
 
-
-```
-
----
-
-Want me to also make a **section with embedded screenshots** (so the README looks more professional and portfolio-ready)?
-```
