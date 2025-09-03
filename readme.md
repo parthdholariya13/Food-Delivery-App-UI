@@ -33,18 +33,11 @@ This project was built using an iterative design process:
 
 *   **Figma:** For UI/UX design, component creation, and advanced interactive prototyping.
 
-## 📱 Preview
-
-| Chat List & Conversation Screen | Group Chat & Encryption | Security Settings |
-| :-----------------------------: | :---------------------: | :---------------: |
-| ![Chats Screen]()               | ![Encryption]()         | ![Security]()     |
-
-*Note: Replace `![Chats Screen]()` etc., with actual links to your images or a video/gif of your prototype in action.*
 
 ## 🔗 Live Prototype
 
 **Experience the interactive prototype yourself:**
-[Click here to open the Figma prototype]([Insert Your Figma Prototype Share Link Here])
+[Click here to open the Figma prototype]([https://www.figma.com/design/DNpbHnHnXnEqG12FMzS7dj/Food-Delivery-App-UI?node-id=0-1&t=jpajz9Dcg7zdGJ4H-1])
 
 *The prototype is best viewed on a mobile frame within Figma Mirror or on a mobile device.*
 
