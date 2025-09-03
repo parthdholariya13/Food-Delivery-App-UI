@@ -3,7 +3,6 @@
 A high-fidelity, interactive prototype for a modern and secure messaging application, designed in Figma. This project focuses on delivering a seamless user experience for private and group communication, backed by robust security features and cross-platform compatibility.
 
 ![Figma Prototype](https://img.shields.io/badge/Prototype-Figma-FF6B8B?style=for-the-badge&logo=figma&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Complete-green?style=for-the-badge)
 
 ## ✨ Features
 
