@@ -36,9 +36,8 @@ This project was built using an iterative design process:
 ## 🔗 Live Prototype
 
 **Experience the interactive prototype yourself:**
-[Click here to open the Figma prototype]([https://www.figma.com/design/DNpbHnHnXnEqG12FMzS7dj/Food-Delivery-App-UI?node-id=0-1&t=jpajz9Dcg7zdGJ4H-1])
-
-*The prototype is best viewed on a mobile frame within Figma Mirror or on a mobile device.*
+- **High Fidelity Designs**  
+  [View on Figma]([https://www.figma.com/design/IwkWKDhMDkkjpfKpw31nPJ/High-Fidelity-Eventify?node-id=0-1&t=oSStvIlaDxqSC798-1](https://www.figma.com/design/DNpbHnHnXnEqG12FMzS7dj/Food-Delivery-App-UI?node-id=0-1&t=jpajz9Dcg7zdGJ4H-1))
 
 
 The Figma file is organized using the following structure:
