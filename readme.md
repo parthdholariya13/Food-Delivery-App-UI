@@ -28,6 +28,6 @@ This repository contains a **high-fidelity UI/UX prototype** of a mobile Food De
 
 ## 🌐 Live Figma Prototype
 
-[🔗 View the Food Delivery App Prototype](YOUR_FIGMA_LINK_HERE)
+[🔗 View the Food Delivery App Prototype](https://www.figma.com/design/DNpbHnHnXnEqG12FMzS7dj/Food-Delivery-App-UI?node-id=13-5830&t=jpajz9Dcg7zdGJ4H-1)
 
 
